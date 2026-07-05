@@ -4,6 +4,9 @@ Supplementary materials and data for
 
 **“Financial-market forecasting and modelling from econometrics to AI: an integrated systematic and bibliometric review with content synthesis (1990–2024)”** - **jrfm-4129983**
 
+## citation - here is the full reference 
+Wafi, A. S., El-Halaby, S., & Ahmed, H. (2026). Financial-Market Forecasting and Modelling from Econometrics to AI: An Integrated Systematic and Bibliometric Review with Content Synthesis (1990–2024). Journal of Risk and Financial Management, 19(3), 228. https://doi.org/10.3390/jrfm19030228 
+
 ---
 
 ## 📁 Main Contents
